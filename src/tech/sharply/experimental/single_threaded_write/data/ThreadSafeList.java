@@ -10,7 +10,7 @@ import java.util.concurrent.Future;
 import java.util.stream.Collectors;
 
 /**
- * This class should achieve thread safety by isolating all write operations to a single thread.
+ * This class achieves thread safety by isolating all write operations to a single thread.
  */
 public class ThreadSafeList {
 
